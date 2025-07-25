@@ -1,2 +1,2 @@
-# RustCraft
+# Rusty
 hear me out... im gonna start seriously working on this very soon, trust me...
